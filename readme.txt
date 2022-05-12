@@ -1,4 +1,6 @@
-# READ ME 
+# Supermarket Checkout 
+
+A checkout system with promotions
 
 ## Setting up and Execution
 

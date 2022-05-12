@@ -10,7 +10,7 @@ use Classes\PurchaseManager;
 class PurchaseTest extends TestCase
 {
     /**
-     * A basic test example.
+     * Test - No deals should be applied.
      *
      * @return void
      */
